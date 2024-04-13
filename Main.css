@@ -24,4 +24,12 @@ body {
 .center {
     width: 50%;
     margin: auto;
+    border: 8px solid;
+    text-align: center;
+}
+
+.centerNav{
+    width: 50%;
+    margin: auto;
+    text-align: center;
 }
